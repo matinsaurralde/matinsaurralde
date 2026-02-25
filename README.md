@@ -1,8 +1,8 @@
-<h1 align="center">I don't write code anymore. I ship products.</h1>
+<h1 align="center">Hey, I'm Matt</h1>
 
 <p align="center">
-  <strong>Cloud Security Engineer @ MercadoLibre by day. AI-powered builder by night.</strong><br>
-  <sub>Valedictorian in Computer Engineering. Based in Córdoba, Argentina.</sub>
+  <strong>Cloud Security Engineer @ MercadoLibre by day. Building side projects with AI by night.</strong><br>
+  <sub>Computer Engineer. Based in Córdoba, Argentina.</sub>
 </p>
 
 <p align="center">
@@ -13,11 +13,9 @@
 
 ---
 
-### The thesis is simple
+I've been going deep with Claude Code to build and ship side projects as fast as possible. The badges above are my real usage stats — pulled automatically from my local Claude Code session data.
 
-The best engineers aren't the ones who write the most code — they're the ones who **ship the most value in the least time**. Claude Code is my unfair advantage. I prompt, I iterate, I deploy. While others are still setting up their dev environment, I'm already pushing to prod.
-
-**1.14 billion tokens and counting.** Every token is a feature shipped, a bug squashed, or an idea brought to life.
+It's been a wild ride learning to work *with* AI instead of just *using* AI. Turns out the bottleneck isn't coding anymore, it's deciding what to build next.
 
 ---
 
@@ -25,49 +23,30 @@ The best engineers aren't the ones who write the most code — they're the ones 
 
 | Project | Status | What it does |
 |:--------|:------:|:-------------|
-| **[chamuyito.com](https://chamuyito.com)** | `LIVE` | The smoothest way to break the ice. AI-powered conversation starters. |
+| **[chamuyito.com](https://chamuyito.com)** | `LIVE` | AI-powered conversation starters. Break the ice the smart way. |
 | **[funes.app](https://funes.app)** | `WIP` | Memory that doesn't forget. Details coming soon. |
 | **???** | `NEXT` | More cooking. Stay tuned. |
 
-> I went from idea to deployed product in hours, not weeks. That's the Claude Code effect.
-
 ---
 
-### The stack behind the scenes
+### How it works
 
 ```
-  Human with an idea
-        │
-        ▼
+  Idea
+   │
+   ▼
   ┌─────────────┐
-  │ Claude Code  │ ← Opus 4.6 on max settings
-  │  (the real   │
-  │   10x eng)   │
+  │ Claude Code  │ ← Opus 4.6
   └──────┬──────┘
          │
     ┌────┴────┐
     ▼         ▼
-  Code    Deploy
-  ships    runs
+  Build    Deploy
 ```
 
-**Day job tools:** AWS, Kubernetes, Terraform, Python, Zero Trust, PCI-DSS compliance @ MercadoLibre
+**Day job:** AWS, GCP, Terraform, Python, SSH, Linux Admin @ MercadoLibre
 
-**Side project tools:** Claude Code + whatever gets the job done fastest
-
----
-
-### Stats are live
-
-The token counter above updates from my local Claude Code usage stats. Run the numbers yourself:
-
-```bash
-# My stats auto-update from ~/.claude/stats-cache.json
-# via a script that pushes to this repo
-./update-stats.sh
-```
-
-<sub>Stats tracked since Jan 20, 2025. Badges powered by shields.io + raw GitHub JSON.</sub>
+**Side projects:** Claude Code + whatever gets the job done
 
 ---
 
