@@ -2,7 +2,8 @@
 
 <p align="center">
   <strong>Cloud Security Engineer @ MercadoLibre by day. Building side projects with AI by night.</strong><br>
-  <sub>Computer Engineer. Based in Córdoba, Argentina.</sub>
+  <sub>Computer Engineer</sub><br>
+  <img src="https://img.shields.io/badge/%F0%9F%87%A6%F0%9F%87%B7-C%C3%B3rdoba%2C%20Argentina-75AADB?style=flat-square" alt="Argentina"/>
 </p>
 
 <p align="center">
