@@ -13,9 +13,9 @@
 
 ---
 
-I've been going deep with Claude Code to build and ship side projects as fast as possible. The badges above are my real usage stats — pulled automatically from my local Claude Code session data.
+I've been going deep with Claude Code to build and ship side projects as fast as possible. The badges above are my real usage stats, pulled automatically from my local Claude Code session data.
 
-It's been a wild ride learning to work *with* AI instead of just *using* AI. Turns out the bottleneck isn't coding anymore, it's deciding what to build next.
+It's been a wild ride learning to work *with* AI instead of just *using* AI. I iterate across Claude, GPT and Gemini depending on the task. Turns out the bottleneck isn't coding anymore, it's deciding what to build next.
 
 ---
 
@@ -32,16 +32,20 @@ It's been a wild ride learning to work *with* AI instead of just *using* AI. Tur
 ### How it works
 
 ```
-  Idea
-   │
-   ▼
+        Idea
+         │
+         ▼
   ┌─────────────┐
-  │ Claude Code  │ ← Opus 4.6
+  │ Claude Code  │
   └──────┬──────┘
          │
-    ┌────┴────┐
-    ▼         ▼
-  Build    Deploy
+    ┌────┼────┐
+    ▼    ▼    ▼
+  GPT  Gemini Claude
+    └────┼────┘
+         │
+         ▼
+   Build & Deploy
 ```
 
 **Day job:** AWS, GCP, Terraform, Python, SSH, Linux Admin @ MercadoLibre
