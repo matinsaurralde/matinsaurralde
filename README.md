@@ -24,7 +24,7 @@ It's been a wild ride learning to work *with* AI instead of just *using* AI. I i
 | Project | Status | What it does |
 |:--------|:------:|:-------------|
 | **[chamuyito.com](https://chamuyito.com)** | `LIVE` | AI-powered conversation starters. Break the ice the smart way. |
-| **[funes.app](https://funes.app)** | `WIP` | Memory that doesn't forget. Details coming soon. |
+| **[funes.chat](https://funes.chat)** | `WIP` | Memory that doesn't forget. Details coming soon. |
 | **???** | `NEXT` | More cooking. Stay tuned. |
 
 ---
