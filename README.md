@@ -54,6 +54,16 @@ It's been a wild ride learning to work *with* AI instead of just *using* AI. I i
 
 ---
 
+### Keeping it sharp
+
+I use AI heavily to ship, but I don't want it to think for me. I solve [LeetCode problems](https://leetcode.com/u/matinsaurralde/) the old-fashioned way — no copilot, no autocomplete, just me and the problem. Sometimes it takes a while, and that's the point.
+
+It's my way of staying sharp and not letting the muscle atrophy. If AI writes all your code, eventually you stop understanding what it's writing.
+
+👉 [leetcode.com/u/matinsaurralde](https://leetcode.com/u/matinsaurralde/)
+
+---
+
 <p align="center">
   <a href="https://linkedin.com/in/matinsaurralde">LinkedIn</a> ·
   <a href="mailto:matinsaurralde4@gmail.com">Email</a> ·
