@@ -25,6 +25,7 @@ It's been a wild ride learning to work *with* AI instead of just *using* AI. I i
 |:--------|:------:|:-------------|
 | **[chamuyito.com](https://chamuyito.com)** | `LIVE` | AI-powered conversation starters. Break the ice the smart way. |
 | **[funes.chat](https://funes.chat)** | `WIP` | AI personal assistant. Automates workflows, tracks expenses, contacts people, and remembers everything. |
+| **[mem](https://github.com/matinsaurralde/mem)** | `WIP` | Privacy-first CLI that turns your shell history into searchable memory using Apple's on-device AI. Open source. |
 | **???** | `NEXT` | More cooking. Stay tuned. |
 
 ---
