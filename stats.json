@@ -1,10 +1,10 @@
 {
-  "totalTokens": 1523130577,
-  "totalTokensFormatted": "1.52B",
-  "totalSessions": 47,
-  "totalMessages": 41883,
-  "totalToolCalls": 7876,
+  "totalTokens": 1605230775,
+  "totalTokensFormatted": "1.61B",
+  "totalSessions": 55,
+  "totalMessages": 44885,
+  "totalToolCalls": 8480,
   "models": ["claude-opus-4-5-20251101", "claude-sonnet-4-5-20250929", "claude-opus-4-6"],
   "since": "2026-01-20",
-  "lastUpdated": "2026-03-09"
+  "lastUpdated": "2026-03-11"
 }
