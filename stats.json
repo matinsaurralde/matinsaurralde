@@ -1,9 +1,9 @@
 {
-  "totalTokens": 1888767259,
-  "totalTokensFormatted": "1.89B",
-  "totalSessions": 74,
-  "totalMessages": 52161,
-  "totalToolCalls": 10483,
+  "totalTokens": 1953861480,
+  "totalTokensFormatted": "1.95B",
+  "totalSessions": 78,
+  "totalMessages": 53462,
+  "totalToolCalls": 10965,
   "models": ["claude-opus-4-5-20251101", "claude-sonnet-4-5-20250929", "claude-opus-4-6"],
   "since": "2026-01-20",
   "lastUpdated": "2026-04-05"
