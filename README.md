@@ -24,8 +24,9 @@ It's been a wild ride learning to work *with* AI instead of just *using* AI. I i
 | Project | Status | What it does |
 |:--------|:------:|:-------------|
 | **[chamuyito.com](https://chamuyito.com)** | `LIVE` | AI-powered conversation starters. Break the ice the smart way. |
-| **[funes.chat](https://funes.chat)** | `WIP` | AI personal assistant. Automates workflows, tracks expenses, contacts people, and remembers everything. |
-| **[mem](https://github.com/matinsaurralde/mem)** | `WIP` | Privacy-first CLI that turns your shell history into searchable memory using Apple's on-device AI. Open source. |
+| **[babel](https://github.com/matinsaurralde/babel)** | `STABLE` | Hold. Speak. Ship. On-device dictation for macOS — zero cloud, zero telemetry, zero subscription. Open source. |
+| **[mem](https://github.com/matinsaurralde/mem)** | `STABLE` | Privacy-first CLI that turns your shell history into searchable memory using Apple's on-device AI. Open source. |
+| **[funes.chat](https://funes.chat)** | `DEAD` | AI personal assistant over WhatsApp. Shelved — Meta never opened API access. RIP. |
 | **???** | `NEXT` | More cooking. Stay tuned. |
 
 ---
