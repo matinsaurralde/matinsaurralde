@@ -1,10 +1,10 @@
 {
-  "totalTokens": 17192351157,
-  "totalTokensFormatted": "17.19B",
-  "totalSessions": 201,
-  "totalMessages": 138975,
-  "totalToolCalls": 50409,
+  "totalTokens": 18726557549,
+  "totalTokensFormatted": "18.73B",
+  "totalSessions": 211,
+  "totalMessages": 150114,
+  "totalToolCalls": 54417,
   "models": ["claude-opus-4-5-20251101", "claude-sonnet-4-5-20250929", "claude-opus-4-6", "claude-haiku-4-5-20251001", "claude-sonnet-4-6", "claude-opus-4-7", "claude-opus-4-8", "claude-fable-5", "claude-sonnet-5", "claude-opus-5", "z-ai/glm-4.6"],
   "since": "2026-01-20",
-  "lastUpdated": "2026-07-29"
+  "lastUpdated": "2026-08-06"
 }
