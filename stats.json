@@ -1,10 +1,10 @@
 {
-  "totalTokens": 23605476711,
-  "totalTokensFormatted": "23.61B",
-  "totalSessions": 243,
-  "totalMessages": 184572,
-  "totalToolCalls": 68776,
-  "models": ["claude-opus-4-5-20251101", "claude-sonnet-4-5-20250929", "claude-opus-4-6", "claude-haiku-4-5-20251001", "claude-sonnet-4-6", "claude-opus-4-7", "claude-opus-4-8", "claude-fable-5", "claude-sonnet-5", "claude-opus-5", "z-ai/glm-4.6", "claude-fable-5-1"],
+  "totalTokens": 43265295099,
+  "totalTokensFormatted": "43.27B",
+  "totalSessions": 279,
+  "totalMessages": 227789,
+  "totalToolCalls": 119143,
+  "models": ["claude-opus-4-5-20251101", "claude-sonnet-4-5-20250929", "claude-opus-4-6", "claude-haiku-4-5-20251001", "claude-sonnet-4-6", "claude-opus-4-7", "claude-opus-4-8", "claude-fable-5", "claude-sonnet-5", "claude-opus-5", "z-ai/glm-4.6", "claude-fable-5-1", "claude-opus-5-5", "claude-sonnet-5-5", "claude-haiku-5-5"],
   "since": "2026-01-20",
-  "lastUpdated": "2026-10-24"
+  "lastUpdated": "2026-11-01"
 }
